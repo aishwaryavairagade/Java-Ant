@@ -1,0 +1,7 @@
+<project name="AntJavaProject" default="info" basedir=".">
+	
+	<target name="info">
+		<echo> simple build file </echo>
+	</target>
+	
+</project>
